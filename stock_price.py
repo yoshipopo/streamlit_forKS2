@@ -8,7 +8,7 @@ Created on Mon May 16 13:26:25 2022
 import streamlit as st
 import requests
 import datetime as dt
-import pandas_datareader.data as web
+#import pandas_datareader.data as web
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
